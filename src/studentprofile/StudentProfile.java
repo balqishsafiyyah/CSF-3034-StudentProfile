@@ -19,10 +19,14 @@ public class StudentProfile { //Declare a class named StudentProfile
      */
     public static void main(String[] args) {
         // Main method: The starting point of the program
-        System.out.println("Name: Nur Balqish Safiyyah "); // Displays name without moving to a new line
-        System.out.println("Studemt ID: S85320");// Displays student ID to a new line
-        System.out.println("Programme:Bachelor of Computer Science");// Displays programme to a new line
+        
+        System.out.println("Name: Nur Balqish Safiyyah"); // Displays the student's name
+        System.out.println("Student ID: S85320"); // Displays the student ID on a new line
+        System.out.println("Programme: Bachelor of Computer Science"); // Displays the programme on a new line
+        System.out.println("Semester: Semester 1"); // Displays the semester on a new line
+        System.out.println("Favourite Language: Java"); // Displays the favourite programming language on a new line
+        
     } //Ends the main method
     
-}//Ends the FixErrors class
+}//Ends the StudentProfile class
 
